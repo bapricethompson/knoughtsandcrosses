@@ -7,7 +7,7 @@ Watch the game in action with tictactoe.mp4 in this repo
 
 Click the image below to watch a demo of the game in action:
 
-[![Tic Tac Toe Demo](./demo-thumbnail.png)](./tictactoe-demo.mp4)
+[![Tic Tac Toe Demo](./demo-thumbnail.png)](./tictactoe.mp4)
 
 ## Features
 
